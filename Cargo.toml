@@ -1,0 +1,7 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+authors = ["Ryan Burrow <rsardb11@vt.edu>"]
+edition = "2018"
+
+[dependencies]
